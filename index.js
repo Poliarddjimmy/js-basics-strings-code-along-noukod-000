@@ -1,5 +1,5 @@
 // Write your code in this file!
-let currentUser = 'Grace Hopper';
+var currentUser = 'Grace Hopper';
  
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
  
